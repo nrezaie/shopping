@@ -1,3 +1,11 @@
 body {
   background-color: red;
 }
+
+p {
+  background-color: red;
+  text-align: center;
+}
+h1 {
+  font-size: 30px;
+}
